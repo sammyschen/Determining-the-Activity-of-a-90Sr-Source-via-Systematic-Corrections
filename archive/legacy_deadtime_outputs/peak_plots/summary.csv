@@ -1,0 +1,6 @@
+file,ok,start_us,end_us,duration_us,plot_png
+D1.CSV,True,-0.2384,2.9979999999999998,3.2364,peak_plots/D1.png
+D2.CSV,True,-0.234,2.8219999999999996,3.056,peak_plots/D2.png
+D3.CSV,True,-0.33599999999999997,2.6992,3.0351999999999997,peak_plots/D3.png
+D4.CSV,True,-0.2352,2.7576,2.9928,peak_plots/D4.png
+D5.CSV,True,-0.2888,2.9824,3.2712000000000003,peak_plots/D5.png

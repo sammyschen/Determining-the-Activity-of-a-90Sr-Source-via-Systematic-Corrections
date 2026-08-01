@@ -1,0 +1,5 @@
+comparison,delta_chi2,delta_k,p_value
+M0 constant -> M1 + offset,-707.8264333651682,1,
+M1 + offset -> M2 + solid angle,29.878777585875696,0,
+M2 + solid angle -> M3 + dead time,45.660101524303855,0,
+M3 + dead time -> M4 + air transmission,922.2232552913212,1,1.4481613334626102e-202

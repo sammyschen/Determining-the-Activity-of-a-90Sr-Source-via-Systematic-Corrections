@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "radiation"
+version = "0.1.0"
+description = "Sr-90 inverse-square-law radiation lab analysis"
+requires-python = ">=3.9"
+dependencies = [
+    "numpy",
+    "pandas",
+    "scipy",
+    "matplotlib",
+]
+
+[tool.setuptools]
+packages = ["radiation"]
