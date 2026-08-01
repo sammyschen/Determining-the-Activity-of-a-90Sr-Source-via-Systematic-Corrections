@@ -1,4 +1,4 @@
-# Radiation
+# Imperial Physics Year Two Radiation Experiment
 
 Analysis of a Sr-90 beta source's count rate vs. distance, testing the
 inverse-square law and correcting for detector dead time, solid-angle
@@ -13,13 +13,6 @@ data/             raw measurements (rate vs. distance, oscilloscope traces)
 results/          generated figures and tables, committed (see Notes below)
 docs/             lab script and final report PDFs
 archive/          original notebooks and first-pass outputs, kept for reference
-```
-
-## Setup
-
-```bash
-pip install -r requirements.txt
-# or: pip install -e .
 ```
 
 ## Usage
