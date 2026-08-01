@@ -1,4 +1,4 @@
-# Radiation
+# Imperial Physics Year Two Radiation Experiment
 
 Analysis of a Sr-90 beta source's count rate vs. distance, testing the
 inverse-square law and correcting for detector dead time, solid-angle
