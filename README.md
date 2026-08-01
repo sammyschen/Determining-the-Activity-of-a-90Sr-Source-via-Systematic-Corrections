@@ -15,13 +15,6 @@ docs/             lab script and final report PDFs
 archive/          original notebooks and first-pass outputs, kept for reference
 ```
 
-## Setup
-
-```bash
-pip install -r requirements.txt
-# or: pip install -e .
-```
-
 ## Usage
 
 ```bash
